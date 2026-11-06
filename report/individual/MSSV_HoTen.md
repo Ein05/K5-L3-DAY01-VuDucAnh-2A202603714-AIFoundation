@@ -2,15 +2,15 @@
 
 > Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
-- **MSSV:**
-- **Họ và tên:**
-- **SEED** (in ở ô đầu notebook):
+- **MSSV**: 2A202603714
+- **Họ và tên**: Vũ Đức Anh
+- **SEED** (in ở ô đầu notebook): 7636
 
 ## 1. Bằng chứng
 
 | Tệp | Có? |
 | --- | --- |
-| [`day01_lab.ipynb`](day01_lab.ipynb) — notebook đã chạy, còn output | ☐ |
+| [`https://colab.research.google.com/drive/1_Ge1MU1loDiljAzyrJ2R7ieGttFNDBSm#scrollTo=e72277de`](day01_lab.ipynb) — notebook đã chạy, còn output | ☐ |
 | [`lab1_report.json`](lab1_report.json) — do ô "Báo cáo cuối" sinh ra | ☐ |
 | [`hand_calc.jpg`](hand_calc.jpg) — ảnh tính tay có các bước | ☐ |
 
